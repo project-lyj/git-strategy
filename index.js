@@ -9,6 +9,8 @@ const initialState = {
 };
 
 console.log('hihi hello');
+console.log('added');
+console.log('added 2');
 
 const reducer = (state = initialState, action) => {
     switch(action.type) {
