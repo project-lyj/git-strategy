@@ -8,6 +8,8 @@ const initialState = {
     isLoad: false,
 };
 
+console.log('hihi hello');
+
 const reducer = (state = initialState, action) => {
     switch(action.type) {
         case FIRST_LOAD:
