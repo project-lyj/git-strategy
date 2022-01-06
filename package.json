@@ -1,0 +1,22 @@
+{
+  "name": "git-strategy",
+  "version": "1.0.0",
+  "description": "git-strategy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeYoungJu/git-strategy.git"
+  },
+  "author": "yjlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeYoungJu/git-strategy/issues"
+  },
+  "homepage": "https://github.com/LeeYoungJu/git-strategy#readme",
+  "dependencies": {
+    "redux": "^4.1.2"
+  }
+}
